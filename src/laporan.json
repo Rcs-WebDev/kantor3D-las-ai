@@ -1,0 +1,80 @@
+{
+  "cs": {
+    "ringkasan": "Konsultasi PT Nusantara Mining terjadwal besok 10.00; prospek PT Sinar Properti otomatis diblokir karena terdeteksi konflik kepentingan.",
+    "menunggu": [
+      "Tinjau hasil Conflict Check PT Sinar Properti Persada"
+    ],
+    "angka": [
+      {
+        "label": "Konsultasi WA",
+        "nilai": "14 klien"
+      }
+    ]
+  },
+  "litigasi": {
+    "ringkasan": "Empat perkara aktif dipantau (Wanprestasi Smelter, PKPU Mitra Distribusi, Lahan Sawit, PHI); kapasitas beban kerja Senior Associate mencapai 100%.",
+    "mendesak": [
+      "H-2 batas unggah bukti surat tambahan & saksi ahli di PN Jakpus"
+    ],
+    "menunggu": [
+      "Delegasikan 1 perkara dari Nadia Kusuma ke Bima Arya (Workload Balancing)"
+    ],
+    "angka": [
+      {
+        "label": "Perkara aktif",
+        "nilai": "4 perkara"
+      }
+    ]
+  },
+  "paralegal": {
+    "ringkasan": "Nazegeling 35 bukti surat di Kantor Pos dan pencocokan di loket PTSP PN Jakpus selesai; 8 bundel berkas verifikasi PKPU siap sidang.",
+    "mendesak": [
+      "H-3 sidang rapat kreditur & pengajuan replik di PN Niaga Jakpus"
+    ],
+    "angka": [
+      {
+        "label": "Bukti e-Court",
+        "nilai": "35 berkas"
+      }
+    ]
+  },
+  "akuntansi": {
+    "ringkasan": "Rekening Operasional dan Client Trust Account terpisah aman; tagihan retainer beserta potongan PPh 23 (2%) dan PPN (11%) telah terhitung otomatis.",
+    "menunggu": [
+      "Evaluasi profitabilitas perkara Lahan Sawit yang melewati kuota jam kerja"
+    ],
+    "angka": [
+      {
+        "label": "Faktur & pajak",
+        "nilai": "2 invoice"
+      }
+    ]
+  },
+  "dokumen": {
+    "ringkasan": "Surat Kuasa Khusus PT Nusantara Mining telah ditandatangani digital (E-Sign); draf Perjanjian Retainer PT FinTech Syariah siap dikirim.",
+    "mendesak": [
+      "IUP Pertambangan Operasi Produksi klien kedaluwarsa dalam 24 hari"
+    ],
+    "menunggu": [
+      "Kirim tautan E-Signature Perjanjian Retainer ke Direktur PT FinTech Syariah"
+    ],
+    "angka": [
+      {
+        "label": "Dokumen & izin",
+        "nilai": "5 berkas"
+      }
+    ]
+  },
+  "hr": {
+    "ringkasan": "Tiga personel terverifikasi hadir sidang di pengadilan via GPS Geofencing; komisi Originating & Handling Fee serta reimbursement masuk ke slip gaji.",
+    "menunggu": [
+      "Setujui pencairan slip gaji & komisi advokat periode berjalan (5 personel)"
+    ],
+    "angka": [
+      {
+        "label": "Jam terdeteksi",
+        "nilai": "47,5 jam"
+      }
+    ]
+  }
+}
